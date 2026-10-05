@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Tester",
+  "description": "High-performance dark-themed educational testing system for schools. Students take comprehensive timed tests with immediate review, while teachers design custom and AI-assisted assessments and evaluate student submissions in an interactive gradebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
